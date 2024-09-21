@@ -61,4 +61,4 @@ function FeaturedCourses() {
 }
 
 export default FeaturedCourses
-FeaturedCourses
+// FeaturedCourses
