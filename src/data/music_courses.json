@@ -1,0 +1,55 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Piano Essentials",
+        "slug": "piano-essentials",
+        "description": "Master the piano with this essential guide to scales, chords, and melodies.",
+        "price": 89.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Drumming for Beginners",
+        "slug": "drumming-for-beginners",
+        "description": "Kickstart your drumming journey with easy-to-follow lessons and practice exercises.",
+        "price": 79.99,
+        "instructor": "Mike Johnson",
+        "isFeatured": true,
+        "image": "/courses/drumming.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Vocal Training 101",
+        "slug": "vocal-training-101",
+        "description": "Improve your singing technique and vocal range with professional exercises.",
+        "price": 69.99,
+        "instructor": "Sara Lee",
+        "isFeatured": false,
+        "image": "/courses/vocals.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Advanced Music Theory",
+        "slug": "advanced-music-theory",
+        "description": "Dive deep into music theory to understand the science of harmony, melody, and rhythm.",
+        "price": 129.99,
+        "instructor": "David Brown",
+        "isFeatured": true,
+        "image": "/courses/music-theory.jpg"
+      }
+    ]
+  }
+  
