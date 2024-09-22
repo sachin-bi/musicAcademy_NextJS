@@ -4,7 +4,7 @@
 function page() {
   return (
     <div>
-      contact
+      (contact)- this page is under construction
     </div>
   )
 }
