@@ -22,13 +22,7 @@ function UpcomingWebiners() {
             link: "/",
             isFeatured: false,
         },
-        {
-            title: "Vocal Techniques: From Basics to Brilliance",
-            description:
-                "In this webinar, we'll cover everything from vocal warm-ups to performance techniques, helping you refine your voice and discover your vocal style.",
-            link: "/",
-            isFeatured: true,
-        },
+
         {
             title: "Music Theory Made Simple: Foundations for All Musicians",
             description:
