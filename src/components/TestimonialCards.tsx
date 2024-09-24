@@ -10,7 +10,7 @@ const testimonials = [
         title: "Student, Piano Enthusiast",
     },
     {
-        quote: "I’ve learned more in the last 6 months here than I did in years of self-study. The personalized approach helped me unlock my potential in ways I never thought possible.",
+        quote: "I have learned more in the last 6 months here than I did in years of self-study. The personalized approach helped me unlock my potential in ways I never thought possible.",
         name: "James Rodriguez",
         title: "Student, Guitarist",
     },
